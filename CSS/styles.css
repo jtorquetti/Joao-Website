@@ -104,8 +104,8 @@ div {}
   background-color: #e26241;
   pading-top: 100px;
   height: 1000px;
-  position: relative;
   padding-top: 50px;
+  padding-bottom: 10px;
 }
 
 .skill-row {
