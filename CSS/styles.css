@@ -102,6 +102,7 @@ div {}
 
 .skills {
   background-color: #e26241;
+  position: relative;
   pading-top: 100px;
   height: 1000px;
   padding-top: 50px;
