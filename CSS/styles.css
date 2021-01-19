@@ -7,6 +7,16 @@ body {
   font-size: 0;
 }
 
+.download-button {
+  margin: 5% 3% 5% 0;
+  color: #b2fcff;
+  font-family: 'Pacifico', cursive;
+  background-color: #e26241;
+}
+.download-button:hover{
+  color: #ffd369;
+  background-color: #b2fcff;
+}
 .sunny {
   position: absolute;
   right: 100px;
@@ -71,7 +81,7 @@ p {
   top: 450px;
 }
 
-div {}
+
 
 .Joao {
   background-color: #b2fcff;
@@ -103,8 +113,8 @@ div {}
 .skills {
   background-color: #e26241;
   position: relative;
-  pading-top: 100px;
-  height: 1050px;
+  padding-top: 100px;
+  height: 600px;
   padding-top: 50px;
   
 }
@@ -178,4 +188,24 @@ div {}
 .footer {
   font-family: 'Sacramento', cursive;
   font-size: 15px;
+}
+/* Footer*/
+#footer {
+  text-align: center;
+
+}
+
+.button3 {
+  margin: 5% 5px 1% 1%;
+}
+
+.button3:hover{
+  color:  #e26241;
+}
+
+.copyright{
+  font-family: 'Pacifico', cursive;
+}
+.copyright:hover{
+  color:  #e26241;
 }
